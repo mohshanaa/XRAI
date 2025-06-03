@@ -70,7 +70,7 @@ Download the CSV file and place it inside the `/data` folder.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/XRAI-Fraud-Detection.git
+   git clone https://github.com/mohshanaa/XRAI.git
    cd XRAI-Fraud-Detection
    ```
 
